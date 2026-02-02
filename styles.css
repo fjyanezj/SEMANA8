@@ -1,0 +1,17 @@
+/* Personalización de la tabla */
+.table-hover tbody tr:hover {
+    background-color: #f0f8ff !important;
+    transition: 0.3s;
+}
+
+/* Estilo personalizado para el botón principal */
+.btn-success {
+    border-radius: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+/* Efecto suave de desplazamiento */
+html {
+    scroll-behavior: smooth;
+}
